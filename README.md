@@ -184,9 +184,11 @@ git clone https://github.com/yourusername/Mobile-Sensor-Tester.git
 
 ## 👨‍💻 Author
 
-**Monu Ugale**
+**Mohan Ugale**
 
-Bachelor of Engineering (Artificial Intelligence & Data Science)
+Diploma in Computer Technology 
+
+K. K. Wagh Polytechnic, Nashik
 
 ---
 
