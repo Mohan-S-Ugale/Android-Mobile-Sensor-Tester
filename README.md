@@ -30,7 +30,7 @@ The app enables users to test different sensors individually and view their real
 ### Home Screen
 
 <p align="center">
-<img src="Images/HomeScreen.png" width="280">
+<img src="Images/HomeScreen.jpg" width="280">
 </p>
 
 ---
@@ -38,7 +38,7 @@ The app enables users to test different sensors individually and view their real
 ### Orientation Sensor
 
 <p align="center">
-<img src="Images/OrientationSensor.png" width="280">
+<img src="Images/OrientationSensor.jpg" width="280">
 </p>
 
 ---
@@ -46,7 +46,7 @@ The app enables users to test different sensors individually and view their real
 ### Proximity Sensor
 
 <p align="center">
-<img src="Images/ProximitySensor.png" width="280">
+<img src="Images/ProximitySensor.jpg" width="280">
 </p>
 
 ---
@@ -54,7 +54,7 @@ The app enables users to test different sensors individually and view their real
 ### Light Sensor
 
 <p align="center">
-<img src="Images/LightSensor.png" width="280">
+<img src="Images/LightSensor.jpg" width="280">
 </p>
 
 ---
@@ -62,7 +62,7 @@ The app enables users to test different sensors individually and view their real
 ### Accelerometer
 
 <p align="center">
-<img src="Images/Accelerometer.png" width="280">
+<img src="Images/Accelerometer.jpg" width="280">
 </p>
 
 ---
@@ -70,7 +70,7 @@ The app enables users to test different sensors individually and view their real
 ### Camera
 
 <p align="center">
-<img src="Images/Camera.png" width="280">
+<img src="Images/Camera.jpg" width="280">
 </p>
 
 ---
@@ -78,7 +78,7 @@ The app enables users to test different sensors individually and view their real
 ### Flashlight
 
 <p align="center">
-<img src="Images/Flashlight.png" width="280">
+<img src="Images/Flashlight.jpg" width="280">
 </p>
 
 ---
@@ -115,13 +115,13 @@ Mobile-Sensor-Tester
 │
 ├── app/
 ├── Images/
-│   ├── HomeScreen.png
-│   ├── OrientationSensor.png
-│   ├── ProximitySensor.png
-│   ├── LightSensor.png
-│   ├── Accelerometer.png
-│   ├── Camera.png
-│   └── Flashlight.png
+│   ├── HomeScreen.jpg
+│   ├── OrientationSensor.jpg
+│   ├── ProximitySensor.jpg
+│   ├── LightSensor.jpg
+│   ├── Accelerometer.jpg
+│   ├── Camera.jpg
+│   └── Flashlight.jpg
 │
 ├── Documentation/
 │   └── Mobile_Sensor_Tester_Report.pdf
