@@ -127,7 +127,7 @@ Mobile-Sensor-Tester
 │   └── Mobile_Sensor_Tester_Report.pdf
 │
 ├── APK/
-│   └── MobileSensorTester.apk
+│   └── MobileSensorTesterAPP.apk
 │
 ├── README.md
 ├── LICENSE
