@@ -141,7 +141,7 @@ Mobile-Sensor-Tester
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Mobile-Sensor-Tester.git
+git clone https://github.com/Mohan-S-Ugale/Android-Mobile-Sensor-Tester.git
 ```
 
 ### Open Project
